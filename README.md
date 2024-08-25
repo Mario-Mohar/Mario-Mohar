@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mario Mohar<br>👀 I’m interested in Windows / iOS & Android and a little bit Linux<br>🌱 I’m currently learning fullstack Developer<br>💞️ I’m looking to collaborate on learning frontend & mobile Developer.<br>🏡 Actually I work as Microsoft Power Apps Engineer<br>📫 How to reach me iam@themo.at
+👋 Hi, I’m Mario Mohar<br>👀 I’m interested in Windows / iOS & Android and a little bit Linux<br>🌱 I’m currently learning fullstack Developer<br>💞️ I’m looking to collaborate on learning frontend & mobile Developer.<br>🏡 My last Job was as Microsoft Power Apps Engineer and Actually I work as QA Engineer<br>📫 How to reach me iam@themo.at
 
 
 ## 🌐 Socials:
