@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mario Mohar<br>👀 I’m interested in Windows / iOS & Android and a little bit Linux<br>🌱 I’m currently learning fullstack Developer<br>💞️ I’m looking to collaborate on learning frontend & mobile Developer.<br>🏡 I am currently working as a Consulatant QA Engineer<br>📫 How to reach me iam@themo.at
+👋 Hi, I’m Mario Mohar<br>👀 I’m interested in Windows / Linux & Android<br>🌱 I’m currently work as IT & Operationsmanager with Knowledge of QA Engineer and Developer.<br>💞️ I’m work on little project with Python, React Native with focus on Automation and KI.<br>📫 How to reach me iam@themo.at
 
 
 ## 🌐 Socials:
