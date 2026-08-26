@@ -57,28 +57,6 @@ I build production AI systems: RAG pipelines, multi-agent workflows, and automat
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario-Mohar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Mohar&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mario-Mohar&theme=tokyonight&hide_border=true)
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mario-Mohar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 <div align="center">
 
 📫 Reach me at **iam@themo.at** — always open to talking AI, automation, or a coffee about a new idea.
