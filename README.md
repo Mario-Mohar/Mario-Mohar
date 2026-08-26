@@ -61,6 +61,4 @@ I build production AI systems: RAG pipelines, multi-agent workflows, and automat
 
 📫 Reach me at **iam@themo.at** — always open to talking AI, automation, or a coffee about a new idea.
 
-![Profile views](https://visitcount.itsvg.in/api?id=Mario-Mohar&icon=0&color=6)
-
 </div>
