@@ -19,7 +19,7 @@ Building AI-powered products and automation systems from Klagenfurt, Austria �
 
 I'm an IT Manager and AI Specialist with a background spanning IT operations, QA engineering, and software development. Right now I split my time between two ventures:
 
-- 🚀 **Co-Founder & CTO at [Scoutlane](https://scoutlane.io)** — an AI-powered B2B recruiting platform for the DACH market
+- 🚀 **Co-Founder & CTO at [Scoutlane](https://scoutlane.at)** — an AI-powered B2B recruiting platform for the DACH market
 - 🏢 **Co-Manager at [Syventa](https://www.syventa.at)** — IT consulting and digitalization for SMEs, run together with my wife Iris
 
 I hold an MBA and a Master's in AI for Business (Universidad Isabel I / ENEB Barcelona, 9.71/10, Cum Laude), alongside certifications in ISTQB Foundation & AI Testing, AWS Cloud Practitioner, Microsoft Power Platform, and DEKRA IT-Sachverständiger.
