@@ -60,6 +60,7 @@ I contribute to projects I use myself, for example:
 | **[dux-shell](https://github.com/duxlabs-dev/dux-shell)**, Wayland desktop shell (QML) | [![merged](https://img.shields.io/github/issues-search/duxlabs-dev/dux-shell?query=is%3Apr%20is%3Amerged%20author%3AMario-Mohar&label=merged&color=2ea44f)](https://github.com/duxlabs-dev/dux-shell/pulls?q=is%3Apr+is%3Amerged+author%3AMario-Mohar) | [search every process, not just the top 100](https://github.com/duxlabs-dev/dux-shell/pull/3763), [sun times from the local day instead of UTC](https://github.com/duxlabs-dev/dux-shell/pull/3237) |
 | **[DevBoard](https://github.com/anoopcodehack/DevBoard)**, developer task board (React, Node) | [![merged](https://img.shields.io/github/issues-search/anoopcodehack/DevBoard?query=is%3Apr%20is%3Amerged%20author%3AMario-Mohar&label=merged&color=2ea44f)](https://github.com/anoopcodehack/DevBoard/pulls?q=is%3Apr+is%3Amerged+author%3AMario-Mohar) | [keyboard navigation between tasks](https://github.com/anoopcodehack/DevBoard/pull/611), [stop the server when required env vars are missing](https://github.com/anoopcodehack/DevBoard/pull/602) |
 | **[faker](https://github.com/faker-js/faker)**, fake data generator (TypeScript) | [![merged](https://img.shields.io/github/issues-search/faker-js/faker?query=is%3Apr%20is%3Amerged%20author%3AMario-Mohar&label=merged&color=2ea44f)](https://github.com/faker-js/faker/pulls?q=is%3Apr+is%3Amerged+author%3AMario-Mohar) | [avoid a leading zero in de_AT postcodes](https://github.com/faker-js/faker/pull/4229) |
+| **[testcontainers-node](https://github.com/testcontainers/testcontainers-node)**, throwaway containers for tests (TypeScript) | [![merged](https://img.shields.io/github/issues-search/testcontainers/testcontainers-node?query=is%3Apr%20is%3Amerged%20author%3AMario-Mohar&label=merged&color=2ea44f)](https://github.com/testcontainers/testcontainers-node/pulls?q=is%3Apr+is%3Amerged+author%3AMario-Mohar) | [fix Redis and Valkey data import when the container runs as non-root](https://github.com/testcontainers/testcontainers-node/pull/1626) |
 
 ---
 
@@ -80,7 +81,7 @@ Also React, Prisma, MariaDB, Vitest, Bash, Stripe, Docker and Podman, GitHub Act
 
 **In some of my projects**
 
-SvelteKit, Express, pgvector for RAG, SQLite, QML, Go (in Beszel), Rust with Tauri, n8n, Dify, the Gemini API.
+SvelteKit, Express, pgvector for RAG, SQLite, QML, Go (in Beszel), Rust with Tauri, the Gemini API.
 
 **From earlier QA and IT jobs**
 
