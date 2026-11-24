@@ -2,7 +2,7 @@
 
 # Hi, I'm Mario Mohar 👋
 
-### Co-Founder & CTO @ Scoutlane · Syventa
+### Co-Founder @ Syventa
 
 Building AI-powered products and the tools around them, from Klagenfurt, Austria 🇦🇹
 
@@ -17,10 +17,10 @@ Building AI-powered products and the tools around them, from Klagenfurt, Austria
 
 ### 🧭 About Me
 
-I came to software through IT operations and QA, and that still shapes how I work: I care about whether something runs reliably, not only whether it demos well. Right now I split my time between two companies:
+I came to software through IT operations and QA, and that still shapes how I work: I care about whether something runs reliably, not only whether it demos well. Right now I work at Syventa, and I co-founded a second company that is currently paused:
 
-- 🚀 **Co-Founder & CTO at [Scoutlane](https://scoutlane.at)**, an AI-powered B2B recruiting platform for the DACH market
-- 🏢 **Co-Manager at [Syventa](https://www.syventa.at)**, IT consulting and digitalization for SMEs, run together with my wife Iris
+- 🏢 **Co-Founder at [Syventa](https://www.syventa.at)**, IT consulting and digitalization for SMEs, run together with my wife Iris
+- ⏸️ **Co-Founder at [Scoutlane](https://scoutlane.at)** (paused), an AI-powered B2B recruiting platform for the DACH market
 
 I work with AI coding agents every day. My part is deciding what gets built, how it's tested, and running it in production.
 
@@ -44,7 +44,7 @@ built the tool. Two of them you can just click and try.
 | 🎮 **[little-bear-game](https://mario-mohar.github.io/little-bear-game/)** | A platformer: run, double jump, collect coins. **Playable in the browser**, no account needed. | `JavaScript` `Express` |
 | 🎮 **[TicTacTo](https://mario-mohar.github.io/TicTacTo/)** | Tic tac toe for two at one screen. **Playable in the browser**, three files and no build step. | `JavaScript` |
 
-Three of my bar widgets are listed and verified in the [Omarchy plugin marketplace](https://omarchyplugins.com): [Mail Inbox](https://github.com/Mario-Mohar/omarchy-mail-inbox), [NFL](https://github.com/Mario-Mohar/omarchy-nfl) and [Monitor Profiles](https://github.com/Mario-Mohar/omarchy-monitor-profiles).
+Three of my bar widgets are listed in the [Omarchy plugin marketplace](https://omarchyplugins.com). [Mail Inbox](https://github.com/Mario-Mohar/omarchy-mail-inbox) and [NFL](https://github.com/Mario-Mohar/omarchy-nfl) are verified, [Monitor Profiles](https://github.com/Mario-Mohar/omarchy-monitor-profiles) is in review.
 
 ---
 
